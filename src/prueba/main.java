@@ -9,6 +9,15 @@ public class main {
 		
 		int n = 5, j= 6;
 		
+		int sum = n + j;
+		
+		System.out.println(sum);	
+		
+		int h = 5;
+		
+		sum = n + h;
+		
+		System.out.println(sum);
 		
 		
 		
