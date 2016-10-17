@@ -16,6 +16,7 @@ public class prueba {
 	static String printHello(){
 		return "Hello World";
 		return "Hello World";
+		return "Hello World";
 	}
 	static int sum(){
 		sum = n+j;
